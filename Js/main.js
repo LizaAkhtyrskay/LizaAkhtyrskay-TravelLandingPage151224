@@ -19,6 +19,7 @@ window.onscroll = () => {
    
 burgerItem.addEventListener('click', () => {
     menu.classList.add('header__nav_active');
+    alert('test')
 });
 
 menuCloseItem.addEventListener('click', () => {
