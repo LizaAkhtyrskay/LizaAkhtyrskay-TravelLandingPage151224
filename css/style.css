@@ -635,6 +635,7 @@
 
     .benefits__card{
       margin-bottom: 30px;
+      display: grid;
     }
     
 
